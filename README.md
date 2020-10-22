@@ -1,2 +1,2 @@
-# filter-list
-A filter list created using javascript and basic HTML/CSS.
+This repository named "MINI PROJECTS JS" includes 
+some basic mini projects that are created purely by Vanilla JS ,HTML/CSS.
